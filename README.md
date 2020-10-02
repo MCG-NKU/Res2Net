@@ -3,7 +3,7 @@ The official implemention of the paper ["Res2Net: A New Multi-scale Backbone Arc
 
 Our paper is accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
 
-**Please go to the project page https://mmcheng.net/res2net/ and the github page https://github.com/res2net to get the source code of applications using Res2Net such as Classification, Instance segmentation, Object detection, Semantic segmentation, Weakly supervised segmentation, Video classification, Salient object detection, Class activation map,Tumor segmentation on CT scans.**
+**Please go to the project page http://mmcheng.net/res2net/ and the github page https://github.com/res2net to get the source code of applications using Res2Net such as Classification, Instance segmentation, Object detection, Semantic segmentation, Weakly supervised segmentation, Video classification, Salient object detection, Class activation map,Tumor segmentation on CT scans.**
 
 ## Update
 - 2020.8.21 Online demo for detection and segmentation using Res2Net is released: http://mc.nankai.edu.cn/res2net-det
